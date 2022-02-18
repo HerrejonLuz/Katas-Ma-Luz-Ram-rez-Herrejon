@@ -1,2 +1,2 @@
-# Katas-Ma-Luz-Ram-rez-Herrejon
+# Katas-Ma-Luz-Ramirez-Herrejon
 Ejercicios python
